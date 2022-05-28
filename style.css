@@ -16,6 +16,9 @@ section {
 body {
 	justify-content: space-between;
 }
+h4{
+    color:white;
+}
 #searchbar,
 .output,
 header {
